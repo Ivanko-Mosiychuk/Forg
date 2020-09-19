@@ -26,13 +26,14 @@
       <change afterPath="$PROJECT_DIR$/.idea/Forg.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logic/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/logic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logic/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/Forg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logic/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/Forg.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/Forg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logic/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -167,6 +173,14 @@
       <option name="presentableId" value="Default" />
       <updated>1592414678596</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add User class (age,name,email var))">
+      <created>1600524946199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600524946199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -212,11 +226,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add User class (age,name,email var))" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add User class (age,name,email var))" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="443" y="131" width="1024" height="852" key="#Project_Structure" timestamp="1600523986994">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="443" y="131" width="1024" height="852" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1600523986994" />
+    <state x="768" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1600524867117">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1600524867117" />
     <state x="687" y="348" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600524652172">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -229,6 +251,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="443" y="131" width="1024" height="852" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1600524725168" />
+    <state x="555" y="275" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1600524974896">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="275" width="800" height="563" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1600524974896" />
     <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1600523944981">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
